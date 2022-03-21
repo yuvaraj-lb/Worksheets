@@ -1,0 +1,100 @@
+question_id,concept_id,question,hints,answer
+C6MDT101A,"
+1001","
+{Arrange the boxes with digit value in proper order}
+{\img{15cm}{3cm}{1A.png}{}{}}{}{}{}{}","
+
+{The digit value given in the question are \underline{\hspace{1cm}},\underline{\hspace{1cm}},\underline{\hspace{2cm}},\underline{\hspace{2cm}},\\\underline{\hspace{2cm}}.\\ \hspace{3cm} \underline{\hspace{2cm}}$>$\underline{\hspace{2cm}}$>$\underline{\hspace{2cm}}$>$\underline{\hspace{2cm}}$>$\underline{\hspace{2cm}}\\
+\hspace{3cm}(greatest)\hspace{8cm}(least)\\Always, greatest digit value should be written in the \underline{\hspace{1cm}}\underline{\hspace{0.6cm}} hand side and \underline{\hspace{1cm}}\underline{\hspace{0.6cm}} on the \underline{\hspace{1cm}}\underline{\hspace{0.6cm}} hand side. 
+}
+{}{}{}{}",
+C6MDT101B,"
+1002","
+{Share the borders of the circles which has 3 in thousands place.}
+{\img{14cm}{3cm}{1B.png}{}{}}
+{}{}{}{}","
+{Expand 56341 =  5 x \underline{\hspace{2cm}} + 6 x \underline{\hspace{2cm}} + 3 x \underline{\hspace{2cm}} + 4 x \underline{\hspace{2cm}} + 1 x \underline{\hspace{2cm}}\\ 
+Expand 52453 =  \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}}\\
+Expand 53251 =  \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} \\
+Expand 38251 =  \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} + \underline{\hspace{0.4cm}} x \underline{\hspace{2cm}} \\
+}
+{Now, number \underline{\hspace{2cm}}\underline{\hspace{0.6cm}} has digit 3 in the thousands place.}{}{}{}",
+C6MDT101C,"
+1003","
+{Arrange the following numbers in ascending order.\\
+6784, 6489, 6748, 6391, 6691}
+{}{}{}{}{}","
+{\begin{tabular}{|c|l|l|l|l|}
+\hline Expand the Number & Thousands & Hundreds & Tens & Ones \\
+\hline 6784 & & & & \\
+\hline 6489 & & & & \\
+\hline 6748 & & & & \\
+\hline 6391 & & & & \\
+\hline 6691 & & & & \\
+\hline
+\end{tabular}\\}
+{
+\begin{table}[]
+    \centering
+    \begin{tabular}{|c|l|l|l|l|}
+    \hline $1^{\text {st }}$ Smallest Number & & & & \\
+    \hline $2^{\text {nd }}$ Smallest Number & & & & \\
+    \hline $3^{\text {rd }}$ Smallest Number & & & & \\
+    \hline $4^{\text {th }}$ Smallest Number & & & & \\
+    \hline Greatest Number & & & & \\
+    \hline
+\end{tabular}
+\end{table}
+}{
+ \begin{tabular}{|c|l|l|l|l|}
+    \hline $1^{\text {st }}$ Smallest Number & & & & \\
+    \hline $2^{\text {nd }}$ Smallest Number & & & & \\
+    \hline $3^{\text {rd }}$ Smallest Number & & & & \\
+    \hline $4^{\text {th }}$ Smallest Number & & & & \\
+    \hline Greatest Number & & & & \\
+    \hline
+\end{tabular}
+}{}{}",
+C6MDT102A,"
+1004","
+{Spot the prime numbers.}
+{\img{14cm}{1.5cm}{2A.png}{}{}}{}{}{}{}","
+
+{\rule{2cm}{0.25pt}\rule{0.2cm}{0.25pt} are numbers which has only two factors, 1 and the number itself.\\}
+{\begin{tabular}{|c|c|c|c|}
+\hline Numbers & Factors & Number of factors & Prime /composite number \\
+\hline 2 & 1,2 & 2 factors & Prime \\
+\hline 3 & & & \\
+\hline 6 & & & \\
+\hline 7 & & & \\
+\hline 10 & & & \\
+\hline 11 & & & \\
+\hline 12 & & & \\
+\hline
+\end{tabular}\\}
+{Here, \rule{2cm}{0.25pt}\rule{2cm}{0.25pt}\rule{2cm}{0.25pt}\rule{0.6cm}{0.25pt} are the prime numbers.
+}{}{}",
+C6MDT102B,"
+1005","
+{Write all the factors of 48.\\}{}{}{}{}{}","
+
+{A \rule{2cm}{0.25pt} of a number is an exact divisor of that number.\\}
+{The factors of 48 are\\}
+{
+}
+{The factors of 48 are \rule{2cm}{0.25pt}\rule{2cm}{0.25pt}\rule{2cm}{0.25pt}\rule{2cm}{0.25pt}\rule{0.6cm}{0.25pt}.\\
+}{}",
+C6MDT102C,"
+1006","
+{Match the following :\\}
+{\begin{tabular}{|c|c|c|c|c|}\hline\multicolumn{2}{|c|}{Number}&&\multicolumn{2}{c|}{Multiple \newline}\\\cline{1-2}\cline{4-5}i.&18&&a.&Multiple of 7\newline\\\cline{1-2}\cline{4-5}ii.&21&&b.&Multiple of 4\\\cline{1-2}\cline{4-5}iii.&25&&c.&Multiple of 6\\\cline{1-2}\cline{4-5}iv.&16&&d.&Multiple of 5\\
+\hline \end{tabular}\\}{}{}{}{}","
+
+{First 5 multiples of 7 are \rule{1cm}{0.25pt}\rule{0.4cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.6cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.8cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.6cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.8cm}{0.25pt}\\
+
+First 5 multiples of 4 are \rule{1cm}{0.25pt}\rule{0.4cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.6cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.8cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.6cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.8cm}{0.25pt}\\
+
+First 5 multiples of 6 are \rule{1cm}{0.25pt}\rule{0.4cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.6cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.8cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.6cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.8cm}{0.25pt}\\
+
+First 5 multiples of 5 are \rule{1cm}{0.25pt}\rule{0.4cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.6cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.8cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.6cm}{0.25pt}, \rule{1cm}{0.25pt}\rule{0.8cm}{0.25pt}\\
+}{}{}{}{}",
